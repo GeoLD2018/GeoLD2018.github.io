@@ -1269,3 +1269,7 @@ img.mfp-img {
 	color: #fff;
 	font-weight: bold;
 }
+
+.panel-body {
+	color: #000;
+}
