@@ -1273,3 +1273,16 @@ img.mfp-img {
 .panel-body {
 	color: #000;
 }
+
+.proceedings-box {
+	margin-bottom:20px;
+	background-color:#fff;
+	color:#444;
+	padding:20px;
+	  position: relative;
+}
+
+.proceedings-box a {
+	font-weight: bold;
+}
+
